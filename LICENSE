@@ -1,0 +1,32 @@
+Personal Use License
+
+Copyright (c) 2026 Steve
+
+This is a hobby project, shared as-is for personal, non-commercial use only.
+
+Permission is granted to any individual to use, copy, and modify this
+software for personal, educational, or non-commercial purposes, provided
+this notice and the disclaimer below are retained.
+
+Commercial use, resale, or redistribution as part of a paid product or
+service is not permitted without the author's prior written consent.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE
+USE OF THIS SOFTWARE.
+
+---
+
+Disclaimer of affiliation
+
+This project is an independent, personal hobby project. The author and this
+project are not affiliated with, endorsed by, or sponsored by SwissSimilarity,
+the Swiss Institute of Bioinformatics, PubChem, the National Center for
+Biotechnology Information (NCBI), DrugBank, ChEMBL/EMBL-EBI, or any other
+organization whose publicly available API this project connects to. All
+product names, logos, and trademarks referenced are the property of their
+respective owners. Use of these third-party services remains subject to each
+provider's own terms of service, rate limits, and usage policies — this
+project is simply a client for them.
