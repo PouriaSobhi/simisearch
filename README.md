@@ -15,10 +15,6 @@ merged into one ranked list, so the same molecule found under a DrugBank ID
 and a PubChem CID shows up once, with its best similarity score and all
 originating sources recorded.
 
-This is a focused spinoff of a larger drug-discovery pipeline
-(`LeadReplacementEngine`) — it only does structural similarity search, nothing
-about targets, pathways, or ADME/toxicity filtering.
-
 > **Disclaimer:** This is a personal hobby project, free to use for personal,
 > non-commercial purposes only (see [LICENSE](LICENSE)). The author and this
 > project are not affiliated with, endorsed by, or sponsored by
